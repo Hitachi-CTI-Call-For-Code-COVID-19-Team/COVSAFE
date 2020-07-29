@@ -22,7 +22,11 @@ Will copy from Santosh description
 
 ### The architecture
 
+This is the COVSAFE system architecture.
+
 ![COVSAFE diagram](./images/covid-19-diagram.png)
+
+Here is the flow how the system works.
 
 1.  Sensors placed at facilities, like supermarkets, send raw data to the edge server. Sensors monitor congestion in the specific areas, people's behavior if they wash their hands, and garbage bins' status if it's disinfected.
 2.  The edge server aggregates and cleanses sensor data, extract parts of data needed, and publishes them to the backend.
@@ -43,7 +47,7 @@ Will copy from Santosh description
 17.  The brower sends requests to not only the React app but also the API service to get data, like the risk calculation result. The API service reads data from the Cloudant database and sends it back to the client.
 18.  As well as the API service reads data from Cloudant, it obtains data, like static files, from the Cloud Object Storage.
 
-Finally, the users, such as the managers and customers, can be informed how mush safety they are and the facilities are via both our web portal and colorful indications.
+Finally, the users, such as the managers and customers, can be informed **how mush safety** they are and the facilities are via both our web portal and colorful indications.
 
 
 ### roadmap
