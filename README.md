@@ -6,7 +6,7 @@ This is the solution package to shield employees and their customers from corona
 
 ### Everything in it
 
-Will paste movie
+[![COVSAFE - shield people from coronavirus](https://img.youtube.com/vi/iPI9NJkXLuA/0.jpg)](https://www.youtube.com/watch?v=iPI9NJkXLuA)
 
 ### What is the problem?
 
@@ -50,12 +50,14 @@ Here is the flow how the system works.
 Finally, the users, such as the managers and customers, can be informed **how mush safety** they are and the facilities are via both our web portal and colorful indications.
 
 
-### roadmap
+### Roadmap
 
-Will paste it from biz plan doc
+We already built MVP, Minimum Value Product, and will have a PoC, Proof of Concept, in August with one of developers (the property management companies). On that PoC, we would like to verify how much the COVSAFE works. In deital, we will estimate how the COVSAFE Ads system and notifications eases area congestions. Around this September, we will support multi-tenants by running the COVSAFE as SaaS. Until the end of this fiscal year, we aim to have a **PAID** Poc with a supermarket partners. We have a plan to release V1.0 till 2021/3 which supports the enhanced monitoring that might be difficult and complicated to detect, like cough and sneeze detections. V2.0 coulbe be released until 2022/3, which supports other domains, like hospitals. Till then, launching the beta service is planned.
+
+![COVSAFE diagram](./images/roadmap.png)
 
 
 ## How to deploy this solution
 
-All most installation will be done by scripts given in [delivery repo](https://github.com/Hitachi-CTI-Call-For-Code-COVID-19-Team/delivery). Unfortunately, some of installations requires manual steps.
+Scripts are ready for automated installation for some components of the COVSAFE. Please go to [delivery](https://github.com/Hitachi-CTI-Call-For-Code-COVID-19-Team/delivery) and try the COVSAFE.
 
