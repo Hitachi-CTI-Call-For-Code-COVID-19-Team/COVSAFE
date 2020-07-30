@@ -1,6 +1,6 @@
 # COVSAFE
 
-This is the solution package to shield employees and their customers from coronavirus infection by colorful, attractive, and indirect suggestions.
+This is the solution to shield retail/hospital/developers’ employees and their customers from coronavirus infection by colorful and meaningful notifications and indirect suggestions to make people decide their decisions positively to reduce the risks.
 
 ## Everything in it
 
