@@ -63,5 +63,25 @@ We already built MVP, Minimum Value Product, and will have a PoC, Proof of Conce
 
 ## How to deploy this solution
 
-Scripts are ready for automated installation for some components of the COVSAFE. Please go to [delivery](https://github.com/Hitachi-CTI-Call-For-Code-COVID-19-Team/delivery) and try the COVSAFE.
+Please see [delivery](https://github.com/Hitachi-CTI-Call-For-Code-COVID-19-Team/delivery) and try the COVSAFE.
 
+## Build with
+
+- [IBM Cloud Event Streams](https://cloud.ibm.com/catalog/services/event-streams): used as the Message Bus
+- [IBM Cloud Functions](https://cloud.ibm.com/functions/): used as FaaS on which our business logics run
+- [IBM Cloud Cloudant](https://cloud.ibm.com/catalog/services/cloudant): used as the NoSQL database
+- [IBM Cloud Push Notifications](https://cloud.ibm.com/catalog/services/push-notifications): used to push notification to mobile
+- [IBM Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage): used as the object storage
+- [IBM Cloud App ID](https://cloud.ibm.com/catalog/services/app-id): used as authentication service
+- [IBM Cloud API Gateway](https://cloud.ibm.com/catalog/services/api-gateway): used as an API gateway
+
+## Authors
+
+- Hiroshi Nakagoe - Hitachi Ltd.
+- Kentarou Watanabe - Hitachi Ltd.
+- Santosh Maurya - Hitachi Ltd.
+- Shin Tezuka - Hitachi Ltd.
+
+## License
+
+This project is under the Apache 2 License. See the [LICENSE](./LICENSE) file for details.
