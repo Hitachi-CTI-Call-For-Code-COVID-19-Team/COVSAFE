@@ -8,6 +8,10 @@ This is the solution package to shield employees and their customers from corona
 
 [![COVSAFE - shield people from coronavirus](https://img.youtube.com/vi/iPI9NJkXLuA/0.jpg)](https://www.youtube.com/watch?v=iPI9NJkXLuA)
 
+### Live Demo
+
+[COVSAFE](https://jp-tok.functions.appdomain.cloud/api/v1/web/1bccfb58-3612-476c-9d4b-db28f91bcf05/covsafe/view)
+
 ### What is the problem?
 
 Will copy from Santosh description.
@@ -36,7 +40,7 @@ Here is the flow how the system works.
 6.  The Risk Calculator, running on the Python Functions, reads data from the Cloudant and calculates the risks of each cell of areas, employees, and garbage bins. Then, it pushes the result into the Cloudant database.
 7.  The Risk Calculator pushes the calculation result to the Push Notification service if the result shows risk high. The push notification service pushes it to mobiles registered beforehand.
 8.  The mobile phone gets notification, kicks our Indicator App. The app calls IFTTT webhook to send the notification.
-9.  The IFTTT service calls the MESH App, running on the mobile, back. The MESH app sends the request to MESH via Bluetooth to change the color.
+9.  The IFTTT service calls the MESH App, running on the mobile, back. The MESH app sends the request to MESH via Bluetooth to change the color. The reason using IFTTT comes from the MESH specification. The only way to turn the LED light on is to kick IFTTT which calls the MESH app.
 10.  The MESH gets the requests from the MESH app. The request includes what color should be changed. The device follows the request, switching the color to tell the current risk that the employees are exposed.
 11.  Employees can see the color LED of MESH device to get known how much **SAFETY** they are easily.
 12.  Either facility/shop managers or their customers can access our web portal to see how much safety the facilities are.
