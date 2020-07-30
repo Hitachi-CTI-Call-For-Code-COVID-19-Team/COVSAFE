@@ -22,11 +22,11 @@ Will copy from Santosh description.
 
 Will copy from Santosh description
 
-### The idea
+### Ideas
 
 Will copy from Santosh description
 
-### The architecture
+### Architecture
 
 This is the COVSAFE system architecture.
 
