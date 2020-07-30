@@ -12,6 +12,8 @@ This is the solution package to shield employees and their customers from corona
 
 [COVSAFE](https://jp-tok.functions.appdomain.cloud/api/v1/web/1bccfb58-3612-476c-9d4b-db28f91bcf05/covsafe/view)
 
+User ID is `user@fake.email`, so is password `password`.
+
 ### What is the problem?
 
 Will copy from Santosh description.
