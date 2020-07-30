@@ -2,17 +2,17 @@
 
 This is the solution package to shield employees and their customers from coronavirus infection by colorful, attractive, and indirect suggestions.
 
-## Solution Overview
-
-### Everything in it
+## Everything in it
 
 [![COVSAFE - shield people from coronavirus](https://img.youtube.com/vi/iPI9NJkXLuA/0.jpg)](https://www.youtube.com/watch?v=iPI9NJkXLuA)
 
-### Live Demo
+## Live Demo
 
 [COVSAFE](https://jp-tok.functions.appdomain.cloud/api/v1/web/1bccfb58-3612-476c-9d4b-db28f91bcf05/covsafe/view)
 
 User ID is `user@fake.email`, so is password `password`.
+
+## Solution Overview
 
 ### What is the problem?
 
