@@ -4,7 +4,7 @@ This is the solution to shield retail/hospital/developers’ employees and their
 
 ## Everything in it
 
-[![COVSAFE - shield people from coronavirus](https://img.youtube.com/vi/iPI9NJkXLuA/0.jpg)](https://www.youtube.com/watch?v=iPI9NJkXLuA)
+[![COVSAFE - shield people from coronavirus](https://img.youtube.com/vi/EhfS6kC5LUo/0.jpg)](https://www.youtube.com/watch?v=EhfS6kC5LUo)
 
 ## Live Demo
 
