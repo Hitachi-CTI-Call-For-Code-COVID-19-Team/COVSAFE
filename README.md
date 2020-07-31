@@ -16,12 +16,14 @@ User ID is `user@fake.email`, so is password `password`.
 
 ### What is the problem?
 
-In this COVID-19 crisis, many businesses lost both their employees and customers since they would be exposed to coronavirus infection risk. To brink their customers back to their companies, they have been doing for sanitization, like putting alcohol hand sanitizers. However, it's insufficient because INVISIBLE infection risk causes people to feel afraid.
+In this COVID-19 crisis, many businesses lost both their employees and customers since both would be exposed to coronavirus infection risk. To brink them back to companies, stores have been doing for disinfection and sanitization, like keeping social distance and putting alcohol hand sanitizers. However, it's insufficient because INVISIBLE infection risk causes people to feel afraid. Both employees and customers want technology to reduce their anxiety.
 
 
 ### How can technology help?
 
-To help businesses in such COVID-situations, we created COVSAFE to enable businesses to maintain all-day-everyday low COVID-risk environment and generate visual-awareness among staff/customers, giving them peace of mind and a safer business environment.
+The best way to defeat fears is to visualize the risk. Fortunately, we live in the world, surrounded by many devices and software services. Cameras and sensors can detect human behaviors and the facility's status, such as recognizing if people flock at the specific area, monitoring how many people wash their hands correctly, and verifying if the staff clean the garbage bin regularly. The cloud providers also give developers elastic and resilient infrastructure services on which developers can build new valuable applications quickly to aggregate sensor data from the edge and visualize them to the employees and customers.  IBM Cloud gives us the power to construct worthy applications immediately. It has FaaS, Function as a Service, named Functions on which only things for developers is to write the business logic as a function. Functions can associate with other services, like the Cloudant database and App ID authentication service, without taking the time. In addition to that, IBM Cloud has many open-source-based services, like the Event Streams, that can easily aggregate sensor data.
+
+Technology-wise, the thing our team should do is to build business logic to visualize INVISIBLE infection risk.
 
 ### Ideas
 
