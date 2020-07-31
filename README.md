@@ -23,11 +23,17 @@ In this COVID-19 crisis, many businesses lost both their employees and customers
 
 The best way to defeat fears is to visualize the risk. Fortunately, we live in the world, surrounded by many devices and software services. Cameras and sensors can detect human behaviors and the facility's status, such as recognizing if people flock at the specific area, monitoring how many people wash their hands correctly, and verifying if the staff clean the garbage bin regularly. The cloud providers also give developers elastic and resilient infrastructure services on which developers can build new valuable applications quickly to aggregate sensor data from the edge and visualize them to the employees and customers.  IBM Cloud gives us the power to construct worthy applications immediately. It has FaaS, Function as a Service, named Functions on which only things for developers is to write the business logic as a function. Functions can associate with other services, like the Cloudant database and App ID authentication service, without taking the time. In addition to that, IBM Cloud has many open-source-based services, like the Event Streams, that can easily aggregate sensor data.
 
-Technology-wise, the thing our team should do is to build business logic to visualize INVISIBLE infection risk.
+Here is the thing. Existing technologies help the developers to build applications, but it doesn't ease staff/customers' concerns, which is fear of INVISIBLE infection risk. This issue is what we should solve.
 
 ### Ideas
 
-Will copy from Santosh description
+COVSAFE, our application, generates visual-awareness among staff/customers, giving them peace of mind and a safer business environment. COVSAFE makes a risk score or ANSHIN-index, a Japanese word for safety, for each employee and each area of business environment/activity. When ANSHIN-index exhibits a high COVID-risk scenario, COVSAFE notifies the owners/staff in a clear and concise visual notification-format. It helps the team stay clean and maintain a healthy work-life, it reinforces owners to business environment sanitized and disinfected regularly, keeping the customer informed. 
+
+COVSAFE concept is "being healthy and clean, keep sanitizing and disinfecting alongside maintaining the social-distance." COVSAFE targets staff+people+operations together, making it unique. The differentiating points are: 
+
+- Domain-based or Field-work-based risk calculation
+- Personalized/Area-specific risk visualization
+- Positive reinforcement visualization to reduce the riks
 
 ### Architecture
 
