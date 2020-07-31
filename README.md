@@ -16,11 +16,12 @@ User ID is `user@fake.email`, so is password `password`.
 
 ### What is the problem?
 
-Will copy from Santosh description.
+COVID-19 has been affecting our lives and livelihood, with no surety of stopping anytime soon. As we wait for its vaccine to be developed, governments are trying different methods to restrict the outbreak. To socialize responsibly is seemingly one of our best options as of now. These are precautionary measures like social-distancing, regular hand-washing, and avoiding gatherings in our daily life. But what about jobs and businesses? In response to COVID-19, people have been working from home wherever possible except for the essential-business workers, who only have a thin line of defence against potential COVID-19 risk. After 2-4 months of extended restrictions, the non-essential businesses are also opening even though the current COVID-19 measures are not fail-safe. It is impracticable for people to go back to their before-COVID lifestyle, as the uncertainty and risks are also high in after-lockdown scenarios. 
+
 
 ### How can technology help?
 
-Will copy from Santosh description
+To help businesses in such COVID-situations, we created COVSAFE to enable businesses to maintain all-day-everyday low COVID-risk environment and generate visual-awareness among staff/customers, giving them peace of mind and a safer business environment.
 
 ### Ideas
 
