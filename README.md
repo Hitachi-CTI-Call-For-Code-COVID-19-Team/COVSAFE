@@ -66,7 +66,7 @@ Finally, the users, such as the managers and customers, can be informed **how mu
 
 ### Roadmap
 
-We already built MVP, Minimum Value Product, and will have a PoC, Proof of Concept, in August with one of developers (the property management companies). On that PoC, we would like to verify how much the COVSAFE works. In deital, we will estimate how the COVSAFE Ads system and notifications eases area congestions. Around this September, we will support multi-tenants by running the COVSAFE as SaaS. Until the end of this fiscal year, we aim to have a **PAID** Poc with partners. We have a plan to release Beta service till 2021/3 which supports the enhanced monitoring that might be difficult and complicated to detect, like cough and sneeze detections. V1.0 coulbe be released until 2022/3, which supports other domains, like hospitals.
+We already built MVP, Minimum Value Product, and will have a PoC, Proof of Concept, in August with one of developers (the property management companies). On that PoC, we would like to verify how much the COVSAFE works. In deital, we will estimate how the COVSAFE Ads system and notifications eases area congestions. Around this September, we will support multi-tenants by running the COVSAFE as SaaS. Until the end of this fiscal year, we aim to have a **PAID** Poc with partners. We have a plan to release Beta service till 2021/3 which supports the enhanced monitoring that might be difficult and complicated to detect, like cough and sneeze detections. V1.0 will be released until 2022/3 and launched as a service with a new color-based notification device. We aim it to be smartwatch band that surely be attractive most of people!
 
 ![COVSAFE diagram](./images/roadmap.png)
 
