@@ -16,7 +16,7 @@ User ID is `user@fake.email`, so is password `password`.
 
 ### What is the problem?
 
-In this COVID-19 crisis, many businesses lost both their employees and customers since both would be exposed to coronavirus infection risk. To brink them back to companies, stores have been doing for disinfection and sanitization, like keeping social distance and putting alcohol hand sanitizers. However, it's insufficient because INVISIBLE infection risk causes people to feel afraid. Both employees and customers want technology to reduce their anxiety.
+In this COVID-19 crisis, many businesses lost both their employees and customers since both would be exposed to coronavirus infection risk. To brink them back to companies, stores have been doing for disinfection and sanitization, like keeping social distance and putting alcohol hand sanitizers. However, it's insufficient because INVISIBLE infection risk makes people afraid. Both employees and customers want technology to reduce their anxiety.
 
 
 ### How can technology help?
@@ -30,7 +30,6 @@ Here is the thing. Existing technologies help the developers to build applicatio
 COVSAFE, our application, generates visual-awareness among staff/customers, giving them peace of mind and a safer business environment. COVSAFE makes a risk score or ANSHIN-index, a Japanese word for safety, for each employee and each area of business environment/activity. When ANSHIN-index exhibits a high COVID-risk scenario, COVSAFE notifies the owners/staff in a clear and concise visual notification-format. It helps the team stay clean and maintain a healthy work-life, it reinforces owners to business environment sanitized and disinfected regularly, keeping the customer informed. 
 
 COVSAFE concept is "being healthy and clean, keep sanitizing and disinfecting alongside maintaining the social-distance." COVSAFE targets staff+people+operations together, making it unique. The differentiating points are: 
-
 - Domain-based or Field-work-based risk calculation
 - Personalized/Area-specific risk visualization
 - Positive reinforcement visualization to reduce the risks
@@ -70,6 +69,10 @@ Finally, the users, such as the managers and customers, can be informed **how mu
 We already built MVP, Minimum Value Product, and will have a PoC, Proof of Concept, in August with one of developers (the property management companies). On that PoC, we would like to verify how much the COVSAFE works. In deital, we will estimate how the COVSAFE Ads system and notifications eases area congestions. Around this September, we will support multi-tenants by running the COVSAFE as SaaS. Until the end of this fiscal year, we aim to have a **PAID** Poc with a supermarket partners. We have a plan to release V1.0 till 2021/3 which supports the enhanced monitoring that might be difficult and complicated to detect, like cough and sneeze detections. V2.0 coulbe be released until 2022/3, which supports other domains, like hospitals. Till then, launching the beta service is planned.
 
 ![COVSAFE diagram](./images/roadmap.png)
+
+### Long description
+
+Please see [Longer version](./long-description.md)
 
 
 ## How to deploy this solution
