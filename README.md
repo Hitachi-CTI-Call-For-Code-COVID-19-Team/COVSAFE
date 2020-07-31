@@ -33,7 +33,7 @@ COVSAFE concept is "being healthy and clean, keep sanitizing and disinfecting al
 
 - Domain-based or Field-work-based risk calculation
 - Personalized/Area-specific risk visualization
-- Positive reinforcement visualization to reduce the riks
+- Positive reinforcement visualization to reduce the risks
 
 ### Architecture
 
